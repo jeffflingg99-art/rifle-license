@@ -1,0 +1,4 @@
+# Authorized Computer UUID List
+# One UUID per line
+
+4C4C4544-0032-5810-8056-C7C04F4A3333
